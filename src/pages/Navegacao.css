@@ -1,0 +1,20 @@
+/* Navegacao.css */
+.barra-navegacao {
+    list-style: none;
+    display: flex;
+    background-color: #333;
+    padding: 10px;
+  }
+  
+  .barra-navegacao li {
+    margin-right: 20px;
+  }
+  
+  .barra-navegacao a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  .barra-navegacao a:hover {
+    color: lightgray;
+  };
